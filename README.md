@@ -12,3 +12,7 @@ Draft can change drastically, but Review will only have minor changes.
 * Declined
 * Abandonded
 * Deprecated
+
+## Namespace
+
+The default root namespace is: `\Psi`
